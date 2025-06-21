@@ -15,7 +15,7 @@ headers = {
 }
 
 # Wordlist (các ký tự có thể)
-wordlist = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$^*()+-=[]{};:\"'<>,.?/|\\"
+wordlist = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$^*()+-=[]{};:\"'<>,.?/|\\_~"
 
 # bỏ kí tự & và % trong wordlist
 
